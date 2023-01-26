@@ -1,7 +1,0 @@
-<style>
-   li {
-    list-style: none; /* Убираем исходные маркеры */
-    background: url(images/img1.jpg) no-repeat 0 4px; /* Параметры фона */
-    padding-left: 24px; /* Смещаем текст вправо */ 
-   }
-  </style>

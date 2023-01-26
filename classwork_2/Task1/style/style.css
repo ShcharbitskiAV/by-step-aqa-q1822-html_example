@@ -1,0 +1,49 @@
+.arrow {
+		margin: -30;
+		padding: 20px 0 20px 20px;
+		list-style: none;
+		background-image: url("../images/img1.jpg");
+		background-repeat: no-repeat;
+		background-position: left center;
+		background-size: 15px;
+   }
+   
+.winter {
+		margin: -30;
+		padding: 20px 0 20px 20px;
+		list-style: none;
+		background-image: url("../images/snow.png");
+		background-repeat: no-repeat;
+		background-position: left center;
+		background-size: 15px;
+   }
+   
+.spring {
+		margin: -30;
+		padding: 20px 0 20px 20px;
+		list-style: none;
+		background-image: url("../images/flower.png");
+		background-repeat: no-repeat;
+		background-position: left center;
+		background-size: 15px;
+   }
+   
+.summer {
+		margin: -30;
+		padding: 20px 0 20px 20px;
+		list-style: none;
+		background-image: url("../images/summer.jpg");
+		background-repeat: no-repeat;
+		background-position: left center;
+		background-size: 15px;
+   }
+   
+.autumn {
+		margin: -30;
+		padding: 20px 0 20px 20px;
+		list-style: none;
+		background-image: url("../images/autumn.jfif");
+		background-repeat: no-repeat;
+		background-position: left center;
+		background-size: 15px;
+   }
