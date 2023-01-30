@@ -1,0 +1,8 @@
+tr:first-child {
+	background-color: #4169E1;
+}
+
+tr:nth-child(2n+2) { 
+	background-color: #A9A9A9;
+}
+
